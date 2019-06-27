@@ -11,10 +11,7 @@ namespace Proveedores
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            lblDesde.Visible = false;
-            lblHasta.Visible = false;
-            txtDesde.Visible = false;
-            txtHasta.Visible = false;
+
         }
     }
 }
